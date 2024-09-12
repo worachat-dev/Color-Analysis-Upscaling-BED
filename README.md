@@ -4,6 +4,12 @@ This notebook demonstrates two key image processing techniques:
 1. **Dominant Color Extraction** using K-Means clustering
 2. **Image Upscaling** with OpenCV
 
+## Screenshots
+
+![Color Extraction](./Color-Analysis04.png)
+
+![Image Upscaling](./Image-Upscaling01.png)
+
 ## Prerequisites
 
 Make sure you have the following Python packages installed:
@@ -162,4 +168,15 @@ plt.show()
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or issues, please contact me!
+
+## Author
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*  
+  [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
+
+---
 
