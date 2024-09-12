@@ -6,9 +6,9 @@ This notebook demonstrates two key image processing techniques:
 
 ## Screenshots
 
-![Color Extraction](./Color-Analysis04.png)
-
 ![Image Upscaling](./Image-Upscaling01.png)
+
+![Color Extraction](./Color-Analysis04.png)
 
 ## Prerequisites
 
